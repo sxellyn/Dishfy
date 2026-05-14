@@ -1,4 +1,4 @@
-# 🍽️ Dishfy
+# 🍽️ Dishly
 
 ![Platform](https://img.shields.io/badge/platform-Android-green)
 ![Language](https://img.shields.io/badge/language-Kotlin-blue)
@@ -8,7 +8,7 @@
 ![API](https://img.shields.io/badge/API-Spoonacular%20%7C%20Edamam-red)
 ![Status](https://img.shields.io/badge/status-in%20development-pink)
 
-Dishfy is a mobile application that helps users discover recipes based on the ingredients they already have at home.
+Dishly is a mobile application that helps users discover recipes based on the ingredients they already have at home.
 The app focuses on simplifying everyday cooking.
 
 👩‍💻Developed by **Suellyn Gomes**
@@ -28,7 +28,7 @@ Many people face daily difficulties when deciding what to cook, especially when:
 
 ## 💡 Solution
 
-Dishfy solves this problem by allowing users to input available ingredients and receive recipe suggestions based on:
+Dishly solves this problem by allowing users to input available ingredients and receive recipe suggestions based on:
 
 - Ingredient availability
 - Number of missing ingredients
